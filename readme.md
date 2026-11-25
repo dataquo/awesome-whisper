@@ -103,6 +103,7 @@
 - [insanely-fast-whisper-cli](https://github.com/ochen1/insanely-fast-whisper-cli) - Achieve transcription speeds near 30x real-time with several optimizations.
 - [whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization) - Automatic speech recognition with speaker diarization.
 - [hns](https://github.com/primaprashant/hns) - On-device speech-to-text CLI using faster-whisper with automatic clipboard copy.
+- [whisper-llm-notes](https://github.com/dataquo/whisper-llm-notes) - Cross-platform batch audio transcription and AI meeting notes pipeline using WhisperX, Apple Silicon MLX / CUDA, and local LLMs.
 
 ## Playgrounds
 
